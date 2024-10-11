@@ -136,7 +136,7 @@ public class MiConversor {
 
     private void mostrarAcercaDe() {
         JOptionPane.showMessageDialog(frame,
-                "Conversor de Monedas\nDesarrollado por [Tu Nombre]\nVersión: 1.0",
+                "Conversor de Monedas\nDesarrollado por [Francisco Ramirez]\nVersión: 1.0",
                 "Acerca de", JOptionPane.INFORMATION_MESSAGE);
     }
 }
